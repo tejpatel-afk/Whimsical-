@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    font-family: "Mountains of Christmas", serif;
+}
+
+p{
+ display: flex;
+ align-items: center;
+ display: inline-block;
+ text-align: center;
+ margin: 2%;
+ padding: 2%
+ 
+
+}
+
+
+
+.mountains-of-christmas-regular {
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .mountains-of-christmas-bold {
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+.caption{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.caption2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+body{
+    background-color: #F4EDE9  ;
+}
+  
+  
